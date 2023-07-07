@@ -17,7 +17,7 @@ A partir de una reunión preliminar, se definieron y documentaron los requisitos
 
 Todo el proceso I se documentó oportunamente, se presentó la propuesta del proyecto nuevamente con el PO durante el primer sprint, y la misma fue aprobada.<br> 
 
-Los pasos siguientes fueron:<br> 
+Los pasos siguientes fueron:<br><br> 
 
 
 
@@ -45,10 +45,7 @@ Creación del modelo relacional: A partir de los datos extraídos, se realizó e
 Luego se procedió a crear el diseño lógico del modelo relacional. Se definieron las tablas y sus columnas, se asignaron los tipos de datos y se establecieron las relaciones y restricciones. Las tablas de las bases de datos definidas para los fines específicos del análisis fueron creadas en Workbench en conexión con un servidor Mysql en la nube. Para esta instancia, el equipo optó por las soluciones brindadas por Azure.<br>
 
 
-`<Diagrama de flujo de trabajo>` : <https://i.postimg.cc/T1yq6hQk/Pipeline-ETL.png>
-
-
-
+`<Diagrama de flujo de trabajo>` : <https://github.com/Rowinelle/ProyectoFinalHenry/blob/rp_DEng/images/Pipeline%20ETL.png>
 
 # Fundamentación de los datos: 
 - TLC Trip Record Data: datos provenientes del gobierno de la ciudad de Nueva York en su subdirección de Comisión de Taxis y Limosinas (TLC) desde el 2015 al 2023. 
@@ -67,11 +64,11 @@ Luego se procedió a crear el diseño lógico del modelo relacional. Se definier
 [![Modelo-ER-fondo-transparente.png](https://i.postimg.cc/tJJ1gQ9S/Modelo-ER-fondo-transparente.png)](https://postimg.cc/2LpjHtbh)
 
 
-`<Diagrama Entidad Relación (datos y columnas)>` : <https://i.postimg.cc/nc66T49M/Diagrama-Entidad-Relaci-n-Tipo-de-datos-y-columnas.jpg>
+`<Diagrama Entidad Relación (datos y columnas)>` : <https://github.com/Rowinelle/ProyectoFinalHenry/blob/rp_DEng/images/Diagrama%20Entidad%20Relaci%C3%B3n%20(Tipo%20de%20datos%20y%20columnas).jpg>
 
 #  Diccionario de columnas: 
 
 [![Diccionario-de-columnas.jpg](https://i.postimg.cc/KcnQnH3H/Diccionario-de-columnas.jpg)](https://postimg.cc/143pSMHG)
 
-`<Link al diccionario>` : <https://i.postimg.cc/KcnQnH3H/Diccionario-de-columnas.jpg>
+`<Link al diccionario>` : <https://github.com/Rowinelle/ProyectoFinalHenry/blob/rp_DEng/images/Diccionario%20de%20columnas.jpg>
 
